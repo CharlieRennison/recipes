@@ -7,5 +7,3 @@
 - salt
 
 ## Instructions
-
-- Some text to test
